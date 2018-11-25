@@ -1,0 +1,20 @@
+Message stats for scenario ProWaitRouter_false_nrofHosts_30
+sim_time: 43200.1000
+created: 1466
+started: 14447
+relayed: 5471
+aborted: 8976
+dropped: 5495
+removed: 0
+delivered: 605
+delivery_prob: 0.4127
+response_prob: 0.0000
+overhead_ratio: 8.0430
+latency_avg: 4098.0197
+latency_med: 3182.2000
+hopcount_avg: 2.1438
+hopcount_med: 2
+buffertime_avg: 4770.5095
+buffertime_med: 3489.5000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,20 @@
+Message stats for scenario GradRouter_true_nrofHosts_60
+sim_time: 43200.1000
+created: 1458
+started: 79373
+relayed: 31369
+aborted: 48000
+dropped: 21412
+removed: 9520
+delivered: 954
+delivery_prob: 0.6543
+response_prob: 0.0000
+overhead_ratio: 31.8816
+latency_avg: 3676.5177
+latency_med: 2879.6000
+hopcount_avg: 6.5304
+hopcount_med: 5
+buffertime_avg: 1252.4553
+buffertime_med: 1003.1000
+rtt_avg: NaN
+rtt_med: NaN
