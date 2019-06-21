@@ -5,8 +5,6 @@ Through this project, we ([Subham Kumaram](https://github.com/shubhamkrm) and I)
 
 # Index
 
-<!-- ###########################################################RESULTS?######################################################################### -->
-
 * [Description of Work](#description-of-work)
 * [Results](#results)
 * [About the Simulator](#about-the-simulator)
