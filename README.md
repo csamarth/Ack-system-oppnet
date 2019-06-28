@@ -1,6 +1,6 @@
 # Acknowledgment System in Opportunistic Networks
 
-Through this project, we ([Subham Kumaram](https://github.com/shubhamkrm) and I) proposed and developed an acknowledgment system in Opportunistic Networks to improve their current efficiency in terms of message throughput through relief in overhead costs. This work was accepted at the [2018 Fifth International Conference on Parallel, Distributed and Grid Computing (PGDC)](https://ieeexplore.ieee.org/xpl/conhome/8735657/proceeding) and can be found [here](https://doi.org/10.1109/PDGC.2018.8745876).
+Through this project, we ([Subham Kumaram](https://github.com/shubhamkrm) and I) proposed and developed an acknowledgment system in Opportunistic Networks to improve their current efficiency in terms of message throughput through relief in overhead costs. This work was published at the [2018 Fifth International Conference on Parallel, Distributed and Grid Computing (PGDC)](https://ieeexplore.ieee.org/xpl/conhome/8735657/proceeding) and can be found [here](https://doi.org/10.1109/PDGC.2018.8745876).
 
 
 # Index
